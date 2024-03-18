@@ -1,6 +1,9 @@
 # Gender Classification using ResNet-50 and ResNet-101
 
-![GitHub](https://github.com/cyongkypranowo/DeepLearning-Gender-CLassification)
+![Hyperband Tuning](https://github.com/cyongkypranowo/DeepLearning-Gender-CLassification/assets/24487280/a7f7e4f1-b764-4354-8b1a-eb0ed5156569)
+![Bayesian Tuning](https://github.com/cyongkypranowo/DeepLearning-Gender-CLassification/assets/24487280/665c8b28-69b3-4eed-893c-0feaad90139b)
+![Random Search Tuning](https://github.com/cyongkypranowo/DeepLearning-Gender-CLassification/assets/24487280/b9c8ddc2-c620-4243-966a-c78f52364b63)
+
 
 This repository contains the implementation of gender classification using ResNet-50 and ResNet-101 architectures. The models are trained on the CelebA dataset, which consists of labeled facial images, for predicting the gender of individuals based on their facial images.
 
